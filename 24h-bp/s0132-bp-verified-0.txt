@@ -1,0 +1,11 @@
+Validated Data
+ID=S0132
+Trend Num=1
+Start=01/05/10 11:18
+End=01/05/10 11:19
+SysThresh D/N = 140/120
+DiaThresh D/N = 90/80
+MAPThresh D/N = 107/93
+Date,Time,Sys.,Dia.,MAP,HR
+01/05/10,11:18,140,88,105,92
+01/05/10,11:19,133,79,98,96
