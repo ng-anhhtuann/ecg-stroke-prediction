@@ -1,5 +1,8 @@
 archive/
 .ipynb_checkpoints/
 /elderly-stroke/24h-emgcg/
+/elderly-stroke/24h-ecg-sample/
+/elderly-stroke/24h-ecg-normalized/
+/elderly-stroke/24h-emgcg/
 /elderly-stroke/head-up-tilt/
 /elderly-stroke/sit-stand/
