@@ -8,3 +8,5 @@ archive/
 /elderly-stroke/dataset-qc-model/
 /elderly-stroke/head-up-tilt/
 /elderly-stroke/sit-stand/
+/elderly-stroke/24h-ecg-quality
+/elderly-stroke/dataset-qc-test
